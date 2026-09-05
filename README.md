@@ -1,16 +1,99 @@
-# links
+# لینک‌من | linkman
 
-Personal links, social profiles, and contact information in one place.
+**linkman** یک صفحه شخصی و کارت ویزیت دیجیتال برای دسترسی یک‌جا به راه‌های ارتباطی، شبکه‌های اجتماعی، پروفایل‌های حرفه‌ای و برخی لینک‌های شخصی حامد شعبان‌زاده است.
 
-## Publish with GitHub Pages
+**نسخه آنلاین:**  
+https://hamedshabanzadeh.github.io/linkman/
 
-1. Upload `index.html`, `style.css`, and `script.js` to the root of the repository.
-2. Open **Settings → Pages** in GitHub.
-3. Under **Build and deployment**, choose **Deploy from a branch**.
-4. Select the `main` branch and `/ (root)` folder, then save.
-5. The site will be available at `https://hamedshabanzadeh.github.io/links/`.
+## درباره linkman
 
-## Notes
+هدف این پروژه ایجاد یک صفحه ساده، سریع و مستقل برای جایگزینی سرویس‌های Link in Bio است.
 
-- Rubika is intentionally omitted because the profile URL was not reliably opening.
-- Bale is not included yet because its public profile URL has not been verified.
+کاربر با ورود به صفحه linkman می‌تواند از یک نقطه به راه‌های مختلف ارتباطی و پروفایل‌های حامد شعبان‌زاده دسترسی داشته باشد؛ از ایمیل و پیام‌رسان‌ها تا شبکه‌های اجتماعی، GitHub و Apple Music.
+
+این پروژه بدون Backend و بدون وابستگی به سرویس‌های Link in Bio اجرا می‌شود و مستقیماً روی GitHub Pages میزبانی شده است.
+
+## لینک‌های موجود
+
+### Contact
+
+- Email
+- WhatsApp
+- Telegram
+- Bale
+
+### Professional
+
+- LinkedIn
+- GitHub
+
+### Social
+
+- Twitter
+- Instagram
+- Facebook
+- YouTube
+- Pinterest
+- Aparat
+
+### Personal
+
+- Apple Music
+
+## ویژگی‌ها
+
+- 🔗 دسترسی یک‌جا به لینک‌های شخصی و حرفه‌ای
+- 📱 طراحی Responsive برای موبایل و دسکتاپ
+- 🎨 استفاده از آیکون‌های اختصاصی و رنگ اصلی هر سرویس
+- 👤 نمایش عکس و معرفی کوتاه شخصی
+- 📤 امکان اشتراک‌گذاری مستقیم صفحه
+- ⚡ اجرای سریع و سبک
+- 🌐 میزبانی روی GitHub Pages
+- 🧩 بدون Backend و بدون Build Step
+
+## تکنولوژی‌های پروژه
+
+این پروژه با تکنولوژی‌های اصلی وب توسعه داده شده است:
+
+- HTML
+- CSS
+- JavaScript
+- Web Share API
+- Clipboard API
+- Responsive Design
+- GitHub Pages
+
+## ساختار اصلی مخزن
+
+- `index.html` — ساختار اصلی صفحه و لینک‌ها
+- `style.css` — طراحی و استایل رابط کاربری
+- `script.js` — منطق اشتراک‌گذاری و رفتارهای صفحه
+- `images/avatar.jpg` — تصویر پروفایل
+- `icons/` — آیکون سرویس‌ها و شبکه‌های اجتماعی
+- `README.md` — مستندات پروژه
+
+## وضعیت پروژه
+
+نسخه فعلی linkman فعال و قابل استفاده است.
+
+طراحی پروژه با تمرکز بر سادگی، خوانایی، دسترسی سریع به لینک‌ها و تجربه مناسب روی موبایل انجام شده است.
+
+در صورت نیاز، لینک‌ها، تصویر پروفایل و سایر اطلاعات صفحه می‌توانند مستقیماً از طریق فایل‌های پروژه بروزرسانی شوند.
+
+## مالکیت و حقوق استفاده
+
+© حامد شعبان‌زاده — تمامی حقوق محفوظ است.
+
+این پروژه یک صفحه شخصی اختصاصی است و انتشار فایل‌های آن در GitHub به معنی اعطای مجوز برای کپی، بازنشر یا استفاده مجدد از طراحی و کدهای پروژه نیست.
+
+سرویس‌ها، نام‌ها، لوگوها و علائم تجاری استفاده‌شده در پروژه متعلق به صاحبان اصلی آن‌ها هستند.
+
+## سازنده
+
+طراحی و توسعه توسط **[حامد شعبان‌زاده](https://hamedshabanzadeh.github.io/linkman/)** با کمک ابزارهای هوش مصنوعی انجام شده است.
+
+ایده، طراحی ساختار، انتخاب لینک‌ها، تصمیم‌گیری‌های بصری و مدیریت پروژه توسط حامد شعبان‌زاده انجام شده است.
+
+اگر این پروژه برایتان جالب بود، می‌توانید با ⭐ دادن به Repository از آن حمایت کنید.
+
+**© 2026 Hamed Shabanzadeh**
