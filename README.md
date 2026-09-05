@@ -13,36 +13,10 @@ https://hamedshabanzadeh.github.io/linkman/
 
 این پروژه بدون Backend و بدون وابستگی به سرویس‌های Link in Bio اجرا می‌شود و مستقیماً روی GitHub Pages میزبانی شده است.
 
-## لینک‌های موجود
-
-### Contact
-
-- Email
-- WhatsApp
-- Telegram
-- Bale
-
-### Professional
-
-- LinkedIn
-- GitHub
-
-### Social
-
-- Twitter
-- Instagram
-- Facebook
-- YouTube
-- Pinterest
-- Aparat
-
-### Personal
-
-- Apple Music
 
 ## ویژگی‌ها
 
-- 🔗 دسترسی یک‌جا به لینک‌های شخصی و حرفه‌ای
+- 🔗 دسترسی یک‌جا به لینک‌های شخصی و کاری
 - 📱 طراحی Responsive برای موبایل و دسکتاپ
 - 🎨 استفاده از آیکون‌های اختصاصی و رنگ اصلی هر سرویس
 - 👤 نمایش عکس و معرفی کوتاه شخصی
